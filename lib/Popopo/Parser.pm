@@ -409,18 +409,19 @@ PO files.
 
 L<Popopo::Checker> - PO validity checker.
 
-=head1 DOWNLOAD
-
-The latest version of this module is available from
-<http://suika.fam.cx/popopo/doc/readme>.
-
 =head1 AUTHOR
 
-Wakaba <w@suika.fam.cx>.
+Wakaba <wakaba@suikawiki.org>.
+
+=head1 HISTORY
+
+This repository was located at <https://github.com/wakaba/perl-popopo>
+until 18 April 2022, then transferred to
+<https://github.com/pawjy/perl-popopo>.
 
 =head1 LICENSE
 
-Copyright 2009 Wakaba <w@suika.fam.cx>.
+Copyright 2009 Wakaba <wakaba@suikawiki.org>.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
