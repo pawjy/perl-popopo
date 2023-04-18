@@ -416,7 +416,7 @@ Wakaba <wakaba@suikawiki.org>.
 =head1 HISTORY
 
 This repository was located at <https://github.com/wakaba/perl-popopo>
-until 18 April 2022, then transferred to
+until 18 April 2023, then transferred to
 <https://github.com/pawjy/perl-popopo>.
 
 =head1 LICENSE
